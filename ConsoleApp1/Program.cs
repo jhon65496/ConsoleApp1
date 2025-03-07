@@ -4,8 +4,9 @@
     {
         static void Main(string[] args)
         {
+            // Иземнения 1
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello, World!");/// 
+            
         }
     }
 }
